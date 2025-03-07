@@ -1,4 +1,4 @@
 package ru.geekbrains.models;
 
-public class Payment {
+public class StrategyInfo {
 }
